@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394537378196",
+    "project_id": "dermavision-4580e",
+    "storage_bucket": "dermavision-4580e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394537378196:android:17a54209057517e341ef81",
+        "android_client_info": {
+          "package_name": "com.example.apitest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394537378196-ieec985boohucaeo1ublbbgb3obf50tk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApSgF_OvgDLQ-Bv2ZJ4aWo3kKFGLlXHwg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394537378196-ieec985boohucaeo1ublbbgb3obf50tk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
